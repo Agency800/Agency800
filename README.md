@@ -7,7 +7,7 @@
 <img src="https://camo.githubusercontent.com/651093a613ed89e09184cb3d97232733e17a565c92488edc1da909ab73c2e1be/68747470733a2f2f6769746875622d70726f66696c652d74726f7068792e76657263656c2e6170702f3f757365726e616d653d73686c6f6b32373430267468656d653d7261646963616c266e6f2d6672616d653d66616c7365266e6f2d62673d66616c7365266d617267696e2d773d34" alt="" data-canonical-src="https://github-profile-trophy.vercel.app/?username=shlok2740&amp;theme=radical&amp;no-frame=false&amp;no-bg=false&amp;margin-w=4" style="max-width: 100%;">
 
 
-<tr><td valign="top" width="33%">
+<table><tbody><tr><td valign="top" width="33%">
 <div class="markdown-heading" dir="auto"><h3 class="heading-element" dir="auto">Frontend</h3><a id="user-content-frontend" class="anchor" aria-label="Permalink: Frontend" href="#frontend"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
 <div align="center" dir="auto">  
 <a href="https://reactjs.org/" rel="nofollow"><img src="https://camo.githubusercontent.com/91b30ff3d7d15143c1dbba499a8ad310bd829fbd45f65cacaeea175fac5d85aa/68747470733a2f2f70726f66696c696e61746f722e7269736861762e6465762f736b696c6c732d6173736574732f72656163742d6f726967696e616c2d776f72646d61726b2e737667" alt="React" height="50" data-canonical-src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" style="max-width: 100%;"></a>  
@@ -48,4 +48,4 @@
 <a href="https://pytorch.org/" rel="nofollow"><img src="https://camo.githubusercontent.com/1a3d379d74f7f850d8aa9b466c8ce006cf8613a8a8cd9d59a35d5cc29d08cb3c/68747470733a2f2f70726f66696c696e61746f722e7269736861762e6465762f736b696c6c732d6173736574732f7079746f7263682d69636f6e2e737667" alt="pytorch" height="50" data-canonical-src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" style="max-width: 100%;"></a>  
 <a href="https://www.docker.com/" rel="nofollow"><img src="https://camo.githubusercontent.com/e821d9ceab6de135d38ae5dbade2bf02c1130f760e0d46926b678b990dacf3e5/68747470733a2f2f70726f66696c696e61746f722e7269736861762e6465762f736b696c6c732d6173736574732f646f636b65722d6f726967696e616c2d776f72646d61726b2e737667" alt="Docker" height="50" data-canonical-src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" style="max-width: 100%;"></a>  
 </div>
-</td></tr>
+</td></tr></tbody></table>
