@@ -1,11 +1,17 @@
-- 👋 Hi, I’m @Agency800
-- 👀 I have extensive experience in 3D web development
-- 🌱 I’m currently working as a JavaScript Developer for our company
-- ⚡ Fun fact: I like 3D game development
+<h1 class="heading-element" dir="auto">About me</h1>
+- 👋 Hi, I’m @Agency800 <br>
+- 👀 I have extensive experience in 3D web development <br>
+- 🌱 I’m currently working as a JavaScript Developer for our company <br>
+- ⚡ Fun fact: I like 3D game development <br>
 
-
+<h1 class="heading-element" dir="auto">🏆 GitHub Trophies</h1>
 <img src="https://camo.githubusercontent.com/651093a613ed89e09184cb3d97232733e17a565c92488edc1da909ab73c2e1be/68747470733a2f2f6769746875622d70726f66696c652d74726f7068792e76657263656c2e6170702f3f757365726e616d653d73686c6f6b32373430267468656d653d7261646963616c266e6f2d6672616d653d66616c7365266e6f2d62673d66616c7365266d617267696e2d773d34" alt="" data-canonical-src="https://github-profile-trophy.vercel.app/?username=shlok2740&amp;theme=radical&amp;no-frame=false&amp;no-bg=false&amp;margin-w=4" style="max-width: 100%;">
 
+<h1 class="heading-element" dir="auto">📊 GitHub Stats:</h1>
+
+<img alt="HaseebAsif's Top Languages" src="https://camo.githubusercontent.com/5b67b74895602acfa030f4f2ce3d024441085da5b360cf7a3ed2a4b0402c3a31/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d48617365656241736966266c616e67735f636f756e743d38266c61796f75743d636f6d70616374267468656d653d72656163742662675f636f6c6f723d314632323245267469746c655f636f6c6f723d3763656266352669636f6e5f636f6c6f723d3264376465342673686f775f69636f6e733d7472756526626f726465725f636f6c6f723d37636562663526626f726465725f7261646975733d3130" height="192px" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=HaseebAsif&amp;langs_count=8&amp;layout=compact&amp;theme=react&amp;bg_color=1F222E&amp;title_color=7cebf5&amp;icon_color=2d7de4&amp;show_icons=true&amp;border_color=7cebf5&amp;border_radius=10" style="max-width: 100%; visibility: visible;" data-xblocker="passed">
+
+<h1 class="heading-element" dir="auto">My Skill Set</h1>
 
 <table><tbody><tr><td valign="top" width="33%">
 <div class="markdown-heading" dir="auto"><h3 class="heading-element" dir="auto">Frontend</h3><a id="user-content-frontend" class="anchor" aria-label="Permalink: Frontend" href="#frontend"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
@@ -50,7 +56,3 @@
 </div>
 </td></tr></tbody></table>
 
-
-<p align="center" dir="auto">
-  <a target="_blank" rel="noopener noreferrer" href="/HaseebAsif/haseebasif/blob/main/profile-3d-contrib/profile-night-view.svg"><img src="/HaseebAsif/haseebasif/raw/main/profile-3d-contrib/profile-night-view.svg" width="100%" style="max-width: 100%; visibility: visible;" data-xblocker="passed"></a>
-</p>
